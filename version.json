@@ -1,10 +1,10 @@
 {
-  "versionCode": 71,
+  "versionCode": 72,
   "versionName": "2.6",
-  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v71/MySIKA_Unindra.apk",
+  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v72/MySIKA_Unindra.apk",
   "changelog": [
-    "fix(apk): KRS blank React #31 — normalisasi error backend jadi string sebelum render"
+    "fix(apk): safeErrMsg rekursif — unwrap nested {detail,code} APIError"
   ],
   "mandatory": false,
-  "releasedAt": "2026-10-02T11:36:01Z"
+  "releasedAt": "2026-10-02T11:46:23Z"
 }
