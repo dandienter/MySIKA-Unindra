@@ -1,10 +1,10 @@
 {
-  "versionCode": 68,
+  "versionCode": 69,
   "versionName": "2.6",
-  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v68/MySIKA_Unindra.apk",
+  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v69/MySIKA_Unindra.apk",
   "changelog": [
-    "fix(apk): hooks AppUpdateChecker di atas early return (blank crash pas dialog muncul)"
+    "feat(apk): tampilkan versi aplikasi di Info & Credits"
   ],
   "mandatory": false,
-  "releasedAt": "2026-10-02T09:48:50Z"
+  "releasedAt": "2026-10-02T10:07:50Z"
 }
