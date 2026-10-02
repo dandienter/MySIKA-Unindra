@@ -1,10 +1,10 @@
 {
-  "versionCode": 64,
+  "versionCode": 65,
   "versionName": "2.6",
-  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v64/MySIKA_Unindra.apk",
+  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v65/MySIKA_Unindra.apk",
   "changelog": [
-    "fix(apk): mapping Style status bar login kebalik (Dark=teks terang, Light=teks gelap)"
+    "feat(apk): progress bar + status download update (polling getDownloadStatus)"
   ],
   "mandatory": false,
-  "releasedAt": "2026-10-02T09:06:02Z"
+  "releasedAt": "2026-10-02T09:20:10Z"
 }
