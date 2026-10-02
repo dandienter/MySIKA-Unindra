@@ -1,10 +1,10 @@
 {
-  "versionCode": 70,
+  "versionCode": 71,
   "versionName": "2.6",
-  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v70/MySIKA_Unindra.apk",
+  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v71/MySIKA_Unindra.apk",
   "changelog": [
-    "feat(apk): kunci aplikasi sidik jari + perbaiki login biometrik (password dulu, simpan terenkripsi)"
+    "fix(apk): KRS blank React #31 — normalisasi error backend jadi string sebelum render"
   ],
   "mandatory": false,
-  "releasedAt": "2026-10-02T10:20:49Z"
+  "releasedAt": "2026-10-02T11:36:01Z"
 }
