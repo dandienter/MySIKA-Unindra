@@ -1,10 +1,10 @@
 {
-  "versionCode": 61,
+  "versionCode": 62,
   "versionName": "2.6",
-  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v61/MySIKA_Unindra.apk",
+  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v62/MySIKA_Unindra.apk",
   "changelog": [
-    "fix(workflow): path APK relatif thd working-directory frontend/"
+    "feat(apk): revisi login + swipe navbar"
   ],
   "mandatory": false,
-  "releasedAt": "2026-10-02T08:13:40Z"
+  "releasedAt": "2026-10-02T08:31:50Z"
 }
