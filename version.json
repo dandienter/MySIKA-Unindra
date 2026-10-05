@@ -1,10 +1,10 @@
 {
-  "versionCode": 75,
+  "versionCode": 76,
   "versionName": "2.6",
-  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v75/MySIKA_Unindra.apk",
+  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v76/MySIKA_Unindra.apk",
   "changelog": [
-    "UniMatch: pessimistic swipe UI + toast display_name + no duplicate match overlay"
+    "Fix UniMatch: last_message object rendered as React child (error #31)"
   ],
   "mandatory": false,
-  "releasedAt": "2026-10-05T15:32:05Z"
+  "releasedAt": "2026-10-05T15:45:11Z"
 }
