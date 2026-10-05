@@ -1,11 +1,10 @@
 {
-  "versionCode": 74,
+  "versionCode": 75,
   "versionName": "2.6",
-  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v74/MySIKA_Unindra.apk",
+  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v75/MySIKA_Unindra.apk",
   "changelog": [
-    "revert: batalkan perubahan popup changelog & auth persisten (salah sasaran)",
-    "fix(apk): popup changelog + data aplikasi persisten"
+    "UniMatch: pessimistic swipe UI + toast display_name + no duplicate match overlay"
   ],
   "mandatory": false,
-  "releasedAt": "2026-10-04T06:15:47Z"
+  "releasedAt": "2026-10-05T15:32:05Z"
 }
