@@ -1,10 +1,12 @@
 {
-  "versionCode": 76,
+  "versionCode": 79,
   "versionName": "2.6",
-  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v76/MySIKA_Unindra.apk",
+  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v79/MySIKA_Unindra.apk",
   "changelog": [
-    "Fix UniMatch: last_message object rendered as React child (error #31)"
+    "sync: favicon webp media.mysika.my.id + fix deteksi tagihan aktif BSI",
+    "sync: pembayaran deteksi tagihan aktif via status+kodeVa/invoice (fix BSI paymentStatusCode 000)",
+    "UniMatch: pessimistic swipe UI + toast display_name + no duplicate match overlay"
   ],
   "mandatory": false,
-  "releasedAt": "2026-10-05T15:45:11Z"
+  "releasedAt": "2026-10-06T22:44:12Z"
 }
