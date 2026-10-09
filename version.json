@@ -1,10 +1,10 @@
 {
-  "versionCode": 80,
+  "versionCode": 81,
   "versionName": "2.6",
-  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v80/MySIKA_Unindra.apk",
+  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v81/MySIKA_Unindra.apk",
   "changelog": [
-    "feat: PDF Tools (image-to-pdf, merge, split, compress, to-word)"
+    "feat: PDF Tools v2 - preview, progress bar, custom filename"
   ],
   "mandatory": false,
-  "releasedAt": "2026-10-09T14:00:09Z"
+  "releasedAt": "2026-10-09T14:14:37Z"
 }
