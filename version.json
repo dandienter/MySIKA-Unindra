@@ -1,11 +1,10 @@
 {
-  "versionCode": 82,
+  "versionCode": 83,
   "versionName": "2.6",
-  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v82/MySIKA_Unindra.apk",
+  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v83/MySIKA_Unindra.apk",
   "changelog": [
-    "fix: normalisasi error object bersarang di kartu ujian",
-    "feat: PDF Tools v2 - preview, progress bar, custom filename"
+    "feat: tombol Cek Pembaruan manual di halaman Tentang (APK)"
   ],
   "mandatory": false,
-  "releasedAt": "2026-10-09T22:12:11Z"
+  "releasedAt": "2026-10-12T04:19:09Z"
 }
