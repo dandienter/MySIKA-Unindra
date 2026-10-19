@@ -1,12 +1,10 @@
 {
-  "versionCode": 85,
+  "versionCode": 86,
   "versionName": "2.6",
-  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v85/MySIKA_Unindra.apk",
+  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v86/MySIKA_Unindra.apk",
   "changelog": [
-    "Trigger rebuild v83",
-    "Fix auto-login on session expiry",
-    "feat: tombol Cek Pembaruan manual di halaman Tentang (APK)"
+    "Update jadwal UTS di RBClass"
   ],
   "mandatory": false,
-  "releasedAt": "2026-10-19T00:31:55Z"
+  "releasedAt": "2026-10-19T03:20:28Z"
 }
