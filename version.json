@@ -1,10 +1,11 @@
 {
-  "versionCode": 83,
+  "versionCode": 84,
   "versionName": "2.6",
-  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v83/MySIKA_Unindra.apk",
+  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v84/MySIKA_Unindra.apk",
   "changelog": [
+    "Fix auto-login on session expiry",
     "feat: tombol Cek Pembaruan manual di halaman Tentang (APK)"
   ],
   "mandatory": false,
-  "releasedAt": "2026-10-12T04:19:09Z"
+  "releasedAt": "2026-10-19T00:23:52Z"
 }
