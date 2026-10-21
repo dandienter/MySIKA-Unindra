@@ -1,10 +1,11 @@
 {
-  "versionCode": 86,
+  "versionCode": 87,
   "versionName": "2.6",
-  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v86/MySIKA_Unindra.apk",
+  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v87/MySIKA_Unindra.apk",
   "changelog": [
-    "Update jadwal UTS di RBClass"
+    "myLMS: dropdown tugas ringkas + Manajemen Tugas (sync dari web 4b917dc)",
+    "myLMS: seksi Tugas & Deadline di beranda LMS + rute /lms publik (sync dari web bcb3c23)"
   ],
   "mandatory": false,
-  "releasedAt": "2026-10-19T03:20:28Z"
+  "releasedAt": "2026-10-21T00:10:45Z"
 }
