@@ -1,11 +1,10 @@
 {
-  "versionCode": 87,
+  "versionCode": 88,
   "versionName": "2.6",
-  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v87/MySIKA_Unindra.apk",
+  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v88/MySIKA_Unindra.apk",
   "changelog": [
-    "myLMS: dropdown tugas ringkas + Manajemen Tugas (sync dari web 4b917dc)",
-    "myLMS: seksi Tugas & Deadline di beranda LMS + rute /lms publik (sync dari web bcb3c23)"
+    "myLMS: tugas sinkron + pengingat deadline FCM + kartu ringkas (sync dari web 90a76f9)"
   ],
   "mandatory": false,
-  "releasedAt": "2026-10-21T00:10:45Z"
+  "releasedAt": "2026-10-21T13:03:51Z"
 }
