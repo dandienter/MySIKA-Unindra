@@ -1,13 +1,15 @@
 {
-  "versionCode": 91,
+  "versionCode": 93,
   "versionName": "2.6",
-  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v91/MySIKA_Unindra.apk",
+  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v93/MySIKA_Unindra.apk",
   "changelog": [
+    "merge: sinkron origin/main (sync web myLMS) ke fitur hari-ini",
+    "feat(dashboard): panel Hari Ini - strip cuaca/sholat/kuliah + peringatan berangkat hujan",
     "sync web 1b7e311: sembunyikan scrollbar baris chip filter di Manajemen Tugas (hide-scrollbar)",
     "sync web f543c3b: Manajemen Tugas manual - tugas tersimpan lokal saat dibuka, tanpa crawl",
     "sync web 6d56478: arahin endpoint LMS ke Koyeb (LMS_API_BASE)",
     "myLMS: tugas sinkron + pengingat deadline FCM + kartu ringkas (sync dari web 90a76f9)"
   ],
   "mandatory": false,
-  "releasedAt": "2026-10-22T16:41:06Z"
+  "releasedAt": "2026-10-22T18:19:22Z"
 }
