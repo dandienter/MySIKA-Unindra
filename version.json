@@ -1,10 +1,12 @@
 {
-  "versionCode": 97,
+  "versionCode": 99,
   "versionName": "2.6",
-  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v97/MySIKA_Unindra.apk",
+  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v99/MySIKA_Unindra.apk",
   "changelog": [
+    "fix(widget): description provider harus @string reference (AAPT) - tambah 6 string desc_widget",
+    "feat(widget): redesign Cuaca & Sholat (gradasi khas MySIKA) + label, deskripsi & preview picker untuk 6 widget",
     "fix(lokasi): GPS perangkat saja - hapus tebakan kampus, izin + percobaan ganda, keadaan lokasi tidak aktif"
   ],
   "mandatory": false,
-  "releasedAt": "2026-10-22T22:53:52Z"
+  "releasedAt": "2026-10-22T23:57:13Z"
 }
