@@ -1,8 +1,9 @@
 {
-  "versionCode": 94,
+  "versionCode": 95,
   "versionName": "2.6",
-  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v94/MySIKA_Unindra.apk",
+  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v95/MySIKA_Unindra.apk",
   "changelog": [
+    "docs: catatan fitur Hari Ini v2 (halaman cuaca/sholat, UPM, widget)",
     "feat: halaman Cuaca + Jadwal Sholat, panel UTS/UAS/UPM, widget Android cuaca & sholat",
     "merge: sinkron origin/main (sync web myLMS) ke fitur hari-ini",
     "feat(dashboard): panel Hari Ini - strip cuaca/sholat/kuliah + peringatan berangkat hujan",
@@ -12,5 +13,5 @@
     "myLMS: tugas sinkron + pengingat deadline FCM + kartu ringkas (sync dari web 90a76f9)"
   ],
   "mandatory": false,
-  "releasedAt": "2026-10-22T19:14:53Z"
+  "releasedAt": "2026-10-22T19:17:38Z"
 }
