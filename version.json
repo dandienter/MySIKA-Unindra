@@ -1,10 +1,11 @@
 {
-  "versionCode": 101,
+  "versionCode": 102,
   "versionName": "2.6",
-  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v101/MySIKA_Unindra.apk",
+  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v102/MySIKA_Unindra.apk",
   "changelog": [
+    "feat(hari-ini): sumber cuaca BMKG dulu, cadangan Open-Meteo + koreksi radar RainViewer",
     "feat(hari-ini): panel auto-update, cache GPS, LatarCuaca, widget fetch mandiri"
   ],
   "mandatory": false,
-  "releasedAt": "2026-10-25T04:43:34Z"
+  "releasedAt": "2026-10-25T07:13:38Z"
 }
