@@ -1,10 +1,12 @@
 {
-  "versionCode": 107,
+  "versionCode": 109,
   "versionName": "2.6",
-  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v107/MySIKA_Unindra.apk",
+  "apkUrl": "https://github.com/dandienter/MySIKA-Unindra/releases/download/v109/MySIKA_Unindra.apk",
   "changelog": [
+    "ci: restore",
+    "chore: add ci helper",
     "chore: add ci helper"
   ],
   "mandatory": false,
-  "releasedAt": "2026-11-12T06:47:58Z"
+  "releasedAt": "2026-11-12T06:51:36Z"
 }
